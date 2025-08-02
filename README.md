@@ -96,3 +96,5 @@
   <a href="mailto:azlan04.md@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Azlan078"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+P.S. "Leave a Star to my Project if Liked🤝"
